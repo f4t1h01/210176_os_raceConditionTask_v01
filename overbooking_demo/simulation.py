@@ -3,7 +3,6 @@ import httpx
 
 BASE = "http://127.0.0.1:8000"
 
-# ANSI colors (work in modern Windows terminals)
 RED = "\033[91m"
 GREEN = "\033[92m"
 YELLOW = "\033[93m"
